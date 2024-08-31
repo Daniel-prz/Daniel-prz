@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Perez
-- 👀 I’m interested in Next.Js, CSS, AI
-- 🌱 I’m currently learning software development at Codex Academy
+- 👀 I’m interested in Full Stack Development and AI
+- 🌱 I’m currently looking for internships/work
 - 📫 
 
 <!---
